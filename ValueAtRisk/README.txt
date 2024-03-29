@@ -11,11 +11,10 @@ How to Use my Program :
         - Use Git to checkout the project file
         - Download the dependencies in Requirements.txt if not automatic.
         - Open var.py inside of risk directory
-        - Refer to the video of myself showing how to do the calculations in the Final Report
-            - ctrl-f for 'youtube' to find it
+        - And call the classes and methods accordingly, some commented out examples.
 
         - Or to simply use the GUI to estimate a risk for a stock + option portfolio
-            Run the gui.py file, there is also a youtube video in the report showing this.
+            Run the gui.py file.
 
 
 Features :
