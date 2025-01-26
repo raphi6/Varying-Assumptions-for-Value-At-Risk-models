@@ -24,6 +24,7 @@ Features :
         Parametric Normal      : VaR, CVaR
         Parametric t-dist      : VaR, CVaR
         Parametric EWMA        : VaR
+        Parametric GARCH(1,1)  : VaR
         Monte Carlo Simulation : VaR, CVaR
         Monte Carlo (options)  : VaR
 
